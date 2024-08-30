@@ -1,7 +1,11 @@
 # shark_website
 A personal project website for practicing django, html, css, etc.
 
-Pushes might be sparse on GitHub. Apologies in advance if this is the case.
+Apologies in advance if there are declines in GitHub pushes, if this is the case it'll likely be due to either procastination or busy due to other responsibilities.
+
 Thank you for your patience.
 
-Website Deployment: MichaelDooley.pythonanywhere.com
+If website has been deployed, this will be the link it appears in:
+MichaelDooley.pythonanywhere.com
+
+Thank you very much for looking at this repository, it's very much appreciated!
