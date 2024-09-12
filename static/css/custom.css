@@ -1,5 +1,52 @@
 /*Images*/
 
-.homepage_whale_shark img{
-    margin: 0;
+.homepage_whale_shark{
+    width: 100%;
+    height: auto;
+    margin: 0%;
+}
+
+/*Headers*/
+
+.h1_header{
+    text-align-last: center;
+    margin: 0%;
+}
+
+.h3_header{
+    text-align-last: center;
+    margin: 0%;
+}
+
+.homepage_heading{
+    text-align: center;
+    margin: 0%;
+}
+
+.homepage_header_colour{
+    background-color: bisque;
+    margin: 0%;
+}
+
+.header_colour{
+    background-color: rgb(76, 76, 175);
+}
+
+/*Navbar*/
+
+.navbar_colour{
+    background-color: aqua;
+    margin: 0%;
+}
+
+.navbar_h4{
+    margin: 0%;
+    text-align: center;
+}
+
+/*Body*/
+
+body {
+    background-color: rgb(92, 139, 185);
+    margin: 0%;
 }
